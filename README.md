@@ -1,2 +1,2 @@
-# base-html-login-page-lol
+# HTML LOGIN PAGE
 HTML Login Page for MIT WPU's SKILL course
